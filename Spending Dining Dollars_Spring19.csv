@@ -1,0 +1,41 @@
+Week,Date,Purchase,Location,Cost
+1,1/31/2019,Chips,SAC,1.73
+1,2/1/2019,Wings,Emporium,9.23
+2,2/3/2019,Chips,Emporium,1.78
+2,2/3/2019,Chips,Starbucks,1.75
+2,2/8/2019,Chinese Cafetasia,Jasmine,10.84
+3,2/11/2019,Bubble Tea,Cha-Time Food Truck,5
+3,2/13/2019,Chips,Emporium,1.73
+3,2/14/2019,Burrito,Cocina Fresca,10.01
+4,2/21/2019,Chinese Cafetasia,Jasmine,9.51
+5,3/1/2019,Chinese Cafetasia,Jasmine,10.84
+6,3/4/2019,Chips,Emporium,1.73
+6,3/6/2019,Burrito,Cocina Fresca,7.97
+7,3/14/2019,Chinese Cafetasia,Jasmine,9.82
+7,3/15/2019,Chinese Cafetasia,Jasmine,10.84
+8,3/27/2019,Chinese Cafetasia,Jasmine,10.84
+8,3/28/2019,Chips,SAC,1.89
+9,4/2/2019,Bubble Tea,Cha-Time Food Truck,6
+9,4/3/2019,Protein Bar,Emporium,3.37
+9,4/5/2019,Burrito,Cocina Fresca,7.97
+10,4/10/2019,Chinese Cafetasia,Jasmine,10.84
+10,4/10/2019,Chips,Emporium,1.53
+10,4/10/2019,Water,Jasmine,0.19
+11,4/16/2019,Wings,Jasmine,10.33
+11,4/18/2019,Chinese Cafetasia,Jasmine,10.84
+12,4/22/2019,Egg & Cheese Sandwich,SAC,3.47
+12,4/24/2019,Burrito,Cocina Fresca,7.97
+12,4/26/2019,Chinese Cafetasia,Jasmine,10.84
+12,4/27/2019,Chips,Emporium,3.06
+13,4/28/2019,Crackers,Emporium,3.78
+13,4/29/2019,Egg Salad,SAC,6.75
+13,4/30/2019,Korean Cafetasia,Jasmine,10.33
+13,5/1/2019,Chips,SAC,2.04
+14,5/7/2019,Korean Cafetasia,Jasmine,13.3
+14,5/8/2019,Bubble Tea,Cha-Time Food Truck,4.61
+14,5/9/2019,Chinese Cafetasia,Jasmine,9.51
+14,5/9/2019,Bubble Tea,Jasmine,4.5
+15,5/13/2019,Crispy Chicken Wrap,Delancey's Street,8.91
+15,5/16/2019,Chips,SAC,2.04
+15,5/17/2019,Water Bottle,West Conveinence Store,1.77
+15,5/18/2019,Chips,Emporium,1.53
