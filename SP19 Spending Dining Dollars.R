@@ -2,7 +2,7 @@
 #During Spring 2019 Semester
 
 # Lines 4 - 19 is about how many times I went to each place during SP 19 Semester
-Spending_Dining_Dollars <- read.csv("C:/Users/iftia/Documents/Iftiar's R Projects/Dining Dollars Spent/Spending Dining Dollars_Spring19.csv")
+Spending_Dining_Dollars <- read.csv("C:/Users/.../..../.../.../Spending Dining Dollars_Spring19.csv")
 options(max.print = 999999)
 Spending_Dining_Dollars
 Location_DF <- data.frame(Location = Spending_Dining_Dollars$Location)
